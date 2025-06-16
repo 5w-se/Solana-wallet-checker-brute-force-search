@@ -115,3 +115,5 @@ Use the command line for the brute-force search and security functions:
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+Update: Link is now responsive and functioning
